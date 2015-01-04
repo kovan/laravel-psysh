@@ -1,5 +1,5 @@
 {
-    "name": "ahmadsherif/laravel-psysh",
+    "name": "kovan/laravel-psysh",
     "description": "An alternative shell for Laravel using PsySH",
     "require": {
         "laravel/framework": "4.x",
