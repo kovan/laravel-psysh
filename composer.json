@@ -2,7 +2,7 @@
     "name": "ahmadsherif/laravel-psysh",
     "description": "An alternative shell for Laravel using PsySH",
     "require": {
-        "laravel/framework": "4.0.x",
+        "laravel/framework": "4.x",
         "psy/psysh": "dev-master"
     },
     "license": "MIT",
